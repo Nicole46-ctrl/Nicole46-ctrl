@@ -16,7 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,github)](https://skillicons.dev)
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 ---

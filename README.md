@@ -1,27 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Nicole46-ctrl/Nicole46-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏍️ Motorradliebhaberin | 💻 Tech begeistert | 🎨 Kreativ unterwegs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,github" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/SQL-Database-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-</p>
+## 🏍️ About Me
 
-- Excel
-- SQLite (DBeaver)
-- PostgreSQL (PgAdmin)
-- Cloud Basics (Azure)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Liebe Freiheit, Geschwindigkeit & lange Touren
+* Begeistert von Technik & Daten
+* Kreativ mit einem Auge für Details
+
+---
+
+## ⚡ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,github)](https://skillicons.dev)
+
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+
+---
+
+## 🏁 Fun Facts
+
+* 🏍️ Motorradfahren ist mein Ausgleich
+* 🌍 Liebe Roadtrips und neue Orte
+* 🎧 Musik + Fahrt = perfekter Moment
+
+---
+
+## 📫 Connect with me
+
+*(Hier kannst du später Instagram, LinkedIn etc. einfügen)*
+
+---
+
+✨ *Ride fast. Code smart.*
+

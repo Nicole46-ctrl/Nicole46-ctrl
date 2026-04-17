@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🏍️ Motorradliebhaberin | 💻 Tech begeistert | 🎨 Kreativ unterwegs
+🏍️ MotoGP begeistert| 💻 Tech begeistert | 🎨 Kreativ unterwegs
 
 ---
 
